@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990056836929",
+    "firebase_url": "https://valid-amplifier-383014-default-rtdb.firebaseio.com",
+    "project_id": "valid-amplifier-383014",
+    "storage_bucket": "valid-amplifier-383014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990056836929:android:1ba3d0cc60d27e72b27bc0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990056836929-k5kvsu9k2crlr94ld1kp439hrjrp6m3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAur0Pwcc-3_Vc_SDe9hlAQ12abkjhQxSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990056836929-k5kvsu9k2crlr94ld1kp439hrjrp6m3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
